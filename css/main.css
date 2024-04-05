@@ -96,6 +96,11 @@ gap: 50px;
     line-height: 1.6;
 }
 
+.photo_jeju {
+    /* background-color: red; */
+    text-align: center;  
+}
+
 .copyright {
         padding: 50px 0 50px 0;
         text-align: center;
